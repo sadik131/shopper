@@ -1,0 +1,30 @@
+.offer-container {
+    display: flex;
+    padding: 0 30px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: antiquewhite;
+}
+
+.offer-text h1 {
+    font-size: 50px;
+}
+
+.offer-text p {
+    text-transform: uppercase;
+}
+
+.offer-text button {
+    margin: 10px 0;
+    border: none;
+    border-radius: 10px;
+    background: orangered;
+    color: white;
+    padding: 12px 35px;
+    font-size: 17px;
+    /* font-weight: normal; */
+}
+
+.banner-img {
+    width: 80%;
+}

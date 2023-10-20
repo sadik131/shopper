@@ -1,0 +1,30 @@
+.hero-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #e2c2e2bb;
+    padding: 0 20px;
+}
+
+.hero-text {
+    color: black;
+    font-size: 30px;
+}
+
+.hero-text button {
+    display: flex;
+    align-items: center;
+    border: none;
+    padding: 15px 30px;
+    color: white;
+    font-size: 17px;
+    border-radius: 20px;
+    background: orange;
+}
+.arrow{
+    margin: 0 5px;
+}
+
+.banner-img {
+    width: 60%;
+}

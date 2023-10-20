@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Slab', serif;
+}
+
+.container {
+  width: 80%;
+  padding: 30px 0px;
+  margin: auto;
+}
+
+.pop-product {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(4, 1fr);
+}
+.product-container{
+  width: 90%;
+}
+.product-container img{
+  width: 100%;
+}
+.price span:nth-child(2){
+  margin: 0 20px;
+}

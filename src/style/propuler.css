@@ -1,0 +1,10 @@
+.title{
+    text-align: center;
+    margin: 50px auto;
+}
+.row{
+    height: 4px;
+    background-color: black;
+    width: 10%;
+    margin: auto;
+}
